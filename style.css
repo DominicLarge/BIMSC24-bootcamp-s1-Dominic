@@ -24,3 +24,8 @@ font-size: 60px;
     color: green;
     font-size: 25;
 }
+
+#NavBar {
+    columns: 1;
+    column-width: 18em;
+}
