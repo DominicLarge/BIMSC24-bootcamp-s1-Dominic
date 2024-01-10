@@ -9,6 +9,7 @@ font-size: large;
 #NavBar {
     color: red;
 font-size: 60px;
+width: max-content;
 
 }
 
@@ -16,6 +17,7 @@ font-size: 60px;
 
     color: blue;
     font-size: small;
+    width: 39px;
 
 }
 
@@ -23,9 +25,6 @@ font-size: 60px;
 
     color: green;
     font-size: 25;
-}
+    margin-left: 40px;
 
-#NavBar {
-    columns: 1;
-    column-width: 18em;
 }
